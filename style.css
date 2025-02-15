@@ -11,7 +11,7 @@ body {
     line-height: 1.6;
     display: grid;
     grid-template-rows: auto 1fr auto;
-    gap: 5rem;
+/*     gap: 5rem; */
     height: 100%;
 }
 
