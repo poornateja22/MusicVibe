@@ -15,6 +15,10 @@ body {
     height: 100%;
 }
 
+body:not(:last-child) {
+    gap: 5rem;
+}
+
 
 /* Navbar */
 .navbar {
